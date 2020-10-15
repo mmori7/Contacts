@@ -2,11 +2,11 @@
 
 ### Plumber
 ----
-1. Prabhakar [9825641394](tel:9825641394)
+- Prabhakar [9825641394](tel:9825641394)
 
 ### Carpenter(Mistry)
 ----
-1. Prem [9898593902](tel: 9898593902)
+- Prem [9898593902](tel: 9898593902)
 
 ### Electrician 
 ----
