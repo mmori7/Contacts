@@ -10,5 +10,5 @@
 
 ### Electrician 
 ----
-1. Raj Kumar [9824791128](tel: 9824791128)
-2. Manoj Yadav [9898054776](tel: 9898054776)
+- Raj Kumar [9824791128](tel: 9824791128)
+- Manoj Yadav [9898054776](tel: 9898054776)
