@@ -1,4 +1,4 @@
-## Welcome to Surya lifestyle's website
+## Welcome to website
 
 ### Plumber
 ----
