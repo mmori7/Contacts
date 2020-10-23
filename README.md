@@ -8,6 +8,7 @@
 ### Carpenter(Mistry)
 ---
 - Prem [9898593902](tel:9898593902) ; [8780390294](tel:8780390264)
+-Baijnath [9727363685](tel:9727363685)
 
 ### Electrician 
 ---
@@ -17,6 +18,11 @@
 ### Floor Polish
 ---
 - Muglesh Sharma [8141566971](tel:8141566971)
+
+### Glass
+---
+- Jain Glass [9374543111](tel:9374543111)
+- Rangkala Glass [9924572226](tel:9924572226)
 
 ### POP Work
 ---
@@ -29,3 +35,8 @@
 ### Stone Fitting & Civil work
 ---
 - Savarmal Bagdya [7874077971](tel:7874077971)
+
+### AC Repairing
+---
+- Number1 [7405069354](tel:7405069354)
+
