@@ -1,4 +1,4 @@
-[Home Decor](## Home Decorations)
+[Home Decor](https://mmori7.github.io/Contacts/##%20Home%20Decorations)
 
 ## Repair
 ----
