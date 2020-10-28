@@ -67,6 +67,17 @@
 - Green Clean [8980040249](tel:8980040249)
 - Chirag [9824775165](tel:9824775165)
 
+## Activities 
+----
+
+### Choreographers(Dance)
+- Vishwa [7622011011](tel:7622011011)
+- Abhishek [972374927](tel:972374927)
+- Kathak [2612665598](tel:2612665598)
+- Ami [9879579924](tel:9879575156)
+- Komal [9879579924](tel:9879579924)
+- Ritu [9825373973](tel:9825373973)
+
 ## UnKnown
 ----
 
@@ -99,13 +110,4 @@
 
 ### Maid/Servant
 
-## Activities 
-----
 
-### Choreographers(Dance)
-- Vishwa [7622011011](tel:7622011011)
-- Abhishek [972374927](tel:972374927)
-- Kathak [2612665598](tel:2612665598)
-- Ami [9879579924](tel:9879575156)
-- Komal [9879579924](tel:9879579924)
-- Ritu [9825373973](tel:9825373973)
