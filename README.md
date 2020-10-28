@@ -1,4 +1,4 @@
-[Home Decor](#Home-Decoratins)
+[Home Decor](#HomeDecoratins)
 
 ## Repair
 ----
