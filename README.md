@@ -62,7 +62,7 @@
 - (Chemical)Kalyan [9824246123](tel:9824246123)
 - Curtain Wash [8980040249](tel:8980040249)
 
-### Dry Cleaner
+### Dry Cleaning
 - RAJMAHAL DryCleaning [9870074245](tel:9870074245)
 - Green Clean [8980040249](tel:8980040249)
 - Chirag [9824775165](tel:9824775165)
