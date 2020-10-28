@@ -1,6 +1,6 @@
 ## Repair
-[AC](https://mmori7.github.io/Contacts/POP Work)
 ----
+
 ### Plumber
 - Prabhakar [9825641394](tel:9825641394)
 - Balram [8155938570](tel:8155938570)
@@ -32,8 +32,37 @@
 ### AC Repairing
 - Number1 [7405069354](tel:7405069354)
 
+## Home Decorations 
+----
 
-cow milk   9913476271
-a2 quality milk 9586945468
-su ayu 9909172000
+### Flowers
+- Lauish [9374597771](tel:9374597771)
+- Jagganath [9979466234](tel:9979466234)
+- Sushant[9725637346](tel:9725637346)
+- ManSingh(Mali)[7383903177](tel:7383903177)
 
+### Toran
+- Sweta [7878720046](tel:7878720046)
+- Chino [9328821215](tel:9328821215)
+- Rajni [7567522555](tel:7567522555)
+- Rakhi [9904885678](tel:9904885678)
+
+## ....
+----
+
+### Mehndi left
+### Photographer left
+### Rangoli 
+- Varsha Agamvadi [8155055182](tel:8155055182)
+- Mayur [9638822956](tel:9638822956)
+
+## Activities 
+----
+
+### Choreographers(Dance)
+- Vishwa [7622011011](tel:7622011011)
+- Abhishek [972374927](tel:972374927)
+- Kathak [2612665598](tel:2612665598)
+- Ami [9879579924](tel:9879575156)
+- Komal [9879579924](tel:9879579924)
+- Ritu [9825373973](tel:9825373973)
