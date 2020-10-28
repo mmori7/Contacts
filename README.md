@@ -32,7 +32,11 @@
 ### AC Repairing
 - Number1 [7405069354](tel:7405069354)
 
-## Home Decorations 
+### Gas Repair
+- Shubham [9825675814](tel:9825675814)
+- Number2 [7990361830](tel:7990361830)
+
+## Home Decorations
 ----
 
 ### Flowers
@@ -47,14 +51,53 @@
 - Rajni [7567522555](tel:7567522555)
 - Rakhi [9904885678](tel:9904885678)
 
-## ....
+## House Cleaning
+----
+### House Keeping Services
+- QUIDOO [7574960600](tel:7574960600)
+- V Care [7405499785](tel:7405499785)
+- Sofa/Curtain Wash JATIN [9898134984](tel:9898134984)
+- JaiPrakash Sofa [9998754715](tel:9998754715)
+- Sumit [9825367939](tel:9825367939)
+- (Chemical)Kalyan [9824246123](tel:9824246123)
+- Curtain Wash [8980040249](tel:8980040249)
+
+### Dry Cleaner
+- RAJMAHAL DryCleaning [9870074245](tel:9870074245)
+- Green Clean [8980040249](tel:8980040249)
+- Chirag [9824775165](tel:9824775165)
+
+## UnKnown
 ----
 
-### Mehndi left
-### Photographer left
+### Mehndi
+
+### Photographer
+
+### Parlour home
+- Dev(HairDresser) [9898701542](tel:9898701542)
+- Payal [9377650462](tel:9377650462)
+- Reshma(NailArt) [9879770400](tel:9879770400)
+- Nitu [7990917761](tel:7990917761)
+- FeatherTouch_Daksha [9374413538](tel:9374413538) 
+
+### Tailor
+
 ### Rangoli 
 - Varsha Agamvadi [8155055182](tel:8155055182)
 - Mayur [9638822956](tel:9638822956)
+
+### Packers & Movers
+- Mahadev M&P [9974044767](tel:9974044767)
+- Jatin [9898030062](tel:9898030062)
+
+### Courier
+
+### Drivers
+
+### Cook/Home Dilevery
+
+### Maid/Servant
 
 ## Activities 
 ----
