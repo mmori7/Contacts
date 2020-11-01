@@ -123,7 +123,6 @@
 ### Drivers
 - One Way Cab [8000247247](tel:8000247247)
 - Pandey [9662185319]{tel:9662185319)
-- 
 
 ### Cook/Home Dilevery
 
