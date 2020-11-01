@@ -1,7 +1,5 @@
  ---
- [Repair](#repair) 
- 
- [Home Decor](#home-decorations) 
+ [Repair](#repair)     ||     [Home Decor](#home-decorations) 
  
  [House Cleaning](#house-cleaning) 
  
