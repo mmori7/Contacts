@@ -96,6 +96,7 @@
 ----
 
 ### Mehndi
+-
 
 ### Photographer
 
@@ -117,8 +118,14 @@
 - Jatin [9898030062](tel:9898030062)
 
 ### Courier
+- Sky InterNational Courier [8980033001](tel:8980033001) ; [9924466651](tel:9924466651)
+- Racana/Reena [9879105348](tel:9879105348)
+- Anjali Courier [6353558084](tel:6353558084)
 
 ### Drivers
+- One Way Cab [8000247247](tel:8000247247)
+- Pandey [9662185319]{tel:9662185319)
+- 
 
 ### Cook/Home Dilevery
 
