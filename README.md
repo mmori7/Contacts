@@ -1,7 +1,4 @@
-[Repair](#repair)     ||     [Home Decor](#home-decorations) ||  [House Cleaning](#house-cleaning) || [Kids](#activities) ||  [UnBranched](#unknown)
- 
- 
-## Repair
+## Repair OR Service
 ----
 
 ### Plumber
@@ -35,11 +32,11 @@
 ### AC Repairing
 - Number1 [7405069354](tel:7405069354)
 
-### Gas Repair
-- Shubham [9825675814](tel:9825675814)
-- Number2 [7990361830](tel:7990361830)
+### Gas & Chimney 
+- Number2 [7990361830](tel:7990361830)*Not for Elica*
+- GAS Repair(AC) [Call](tel:99719132603)
 
-## Home Decorations
+## Decorations & Cleaning
 ----
 
 ### Flowers
@@ -54,8 +51,6 @@
 - Rajni [7567522555](tel:7567522555)
 - Rakhi [9904885678](tel:9904885678)
 
-## House Cleaning
-----
 ### House Keeping Services
 - QUIDOO [7574960600](tel:7574960600)
 - V Care [7405499785](tel:7405499785)
@@ -66,9 +61,14 @@
 - Curtain Wash [8980040249](tel:8980040249)
 
 ### Dry Cleaning
+- Chetan Laundry Bhatar [Call](tel:9824188466)
 - RAJMAHAL DryCleaning [9870074245](tel:9870074245)
 - Green Clean [8980040249](tel:8980040249)
 - Chirag [9824775165](tel:9824775165)
+
+### Rangoli 
+- Varsha Agamvadi [8155055182](tel:8155055182)
+- Mayur [9638822956](tel:9638822956)
 
 ## Activities 
 ----
@@ -81,13 +81,10 @@
 - Komal [9879579924](tel:9879579924)
 - Ritu [9825373973](tel:9825373973)
 
-## UnKnown
+## Ladies
 ----
 
 ### Mehndi
--
-
-### Photographer
 
 ### Parlour home
 - Dev(HairDresser) [9898701542](tel:9898701542)
@@ -97,14 +94,14 @@
 - FeatherTouch_Daksha [9374413538](tel:9374413538) 
 
 ### Tailor
+- ESHA(RajMahal) [7984042386](tel:7984042386)
+- Khushboo (Alteration-CityLight) [9913521121](tel:9913521121)
+- Palak Bespoke [Call](tel:9723697239)
+- Nirav(Men's Kurta) [7878759603](tel:7878759603)
+- Jitu Bhai [Call](tel:9426005536)
 
-### Rangoli 
-- Varsha Agamvadi [8155055182](tel:8155055182)
-- Mayur [9638822956](tel:9638822956)
-
-### Packers & Movers
-- Mahadev M&P [9974044767](tel:9974044767)
-- Jatin [9898030062](tel:9898030062)
+## One Time Needs
+----
 
 ### Courier
 - Sky InterNational Courier [8980033001](tel:8980033001) ; [9924466651](tel:9924466651)
@@ -114,9 +111,13 @@
 ### Drivers
 - One Way Cab [8000247247](tel:8000247247)
 - Pandey [9662185319]{tel:9662185319)
+- Hirel Bhai [7567506739](tel:7567506739)
+- Shyam [7434988813](tel:7434988813)
+
+### Packers & Movers
+- Mahadev M&P [9974044767](tel:9974044767)
+- Jatin [9898030062](tel:9898030062)
 
 ### Cook/Home Dilevery
 
 ### Maid/Servant
-
-
